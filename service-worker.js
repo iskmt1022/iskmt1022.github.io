@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.221583f2e95f6163a31b64e1f1e3187c.js"
+  "precache-manifest.985a55770a0b74701be3a3b01ed12b4f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "skmt-app"});
